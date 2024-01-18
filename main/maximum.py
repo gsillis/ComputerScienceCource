@@ -1,7 +1,7 @@
-def maximum (x,y):
+def calculate_maximum (x,y):
     if x > y:
      return x
     else:
        return y
     
-print(maximum(647,643))
+print(calculate_maximum (647,643))
